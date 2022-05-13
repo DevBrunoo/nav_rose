@@ -19,4 +19,3 @@
     <a href = "mailto:contactbruno5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/how15bybruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  <img src="file:///var/folders/yj/3mrwhj1d2x73gpftc9yjtq1h0000gn/T/TemporaryItems/NSIRD_screencaptureui_Q9HIVt/Captura%20de%20Tela%202022-05-13%20a%CC%80s%2013.01.01.png" alt="para">
